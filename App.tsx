@@ -4,7 +4,7 @@ import React from 'react'
 const App = () => {
   return (
     <View>
-      <Text>App Container</Text>
+      <Text>First Change in App Container</Text>
     </View>
   )
 }
